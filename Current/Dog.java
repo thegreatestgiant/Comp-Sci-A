@@ -6,6 +6,7 @@ public class Dog extends Pet{
         breed = b;
     }
 
+    @Overide
     public int getAge() {
         return super.getAge() * 7;
     }
