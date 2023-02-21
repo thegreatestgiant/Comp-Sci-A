@@ -1,5 +1,3 @@
-package PACKAGE_NAME;
-
 class Selection {
     public static void main(String[] args){
         int x = 0;

@@ -1,5 +1,3 @@
-package PACKAGE_NAME;
-
 public class Fraction {
 //    Declare data attributes
 private int num, denum;

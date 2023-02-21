@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
 class Quiz2{
   public static void main(String[] args){
     System.out.println(distance(5,6));

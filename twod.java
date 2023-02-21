@@ -1,5 +1,3 @@
-package PACKAGE_NAME;
-
 public class twod {
     public static void main(String[] args){
         int[] arr = {2,4,6,8,10,0,0};

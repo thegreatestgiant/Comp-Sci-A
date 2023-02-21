@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
 class Employee{
     private String name,department,position;
     private int idNumber;

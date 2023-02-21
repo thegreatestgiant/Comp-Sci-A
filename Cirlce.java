@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
 // https://replit.com/@merlbaum/Unit-2?embed=1&output=1#Circle.java
 class Circle {
     // Atrributes - what defines a circle

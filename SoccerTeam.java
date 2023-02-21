@@ -1,5 +1,3 @@
-package PACKAGE_NAME;
-
 class SoccerTeam{
     private int win, loss, tie, points;
     private static int gPlayed, gScored;

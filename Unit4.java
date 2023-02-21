@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
 import java.util.*;
 class Unit4 {
     public static void main(String[] args){

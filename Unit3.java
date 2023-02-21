@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
 class Unit3{
     public static void main(String[] args){
           int score = 95;

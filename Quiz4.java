@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
 import java.util.*;
 public class Quiz4 {
     public static void main(String[] args){

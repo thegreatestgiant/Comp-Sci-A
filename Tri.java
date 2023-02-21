@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
 class Tri {
   public static void main(String[] args) {
   // Tri t = new Tri();

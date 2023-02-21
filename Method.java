@@ -1,5 +1,3 @@
-package PACKAGE_NAME;
-
 import java.util.Scanner;
 
 class Method {

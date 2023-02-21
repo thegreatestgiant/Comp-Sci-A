@@ -1,5 +1,3 @@
-package PACKAGE_NAME;
-
 public class FRQ {
     public static void main(String[] args){
         String str = "CCAAAAATTT!";

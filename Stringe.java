@@ -1,4 +1,3 @@
-package PACKAGE_NAME;
 class Stringe{
     public static void main(String[] args) {
     String words = "Torah is the Best";

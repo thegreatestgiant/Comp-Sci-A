@@ -1,5 +1,3 @@
-package PACKAGE_NAME;
-
 public class Unit5 {
     public static void main(String[] args){
         Fraction frac1 = new Fraction();
