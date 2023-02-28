@@ -1,7 +1,8 @@
-public class Pet{
+public abstract class Pet{
     private String name;
     private int age;
     private boolean isSold;
+
     public Pet(String n, int a, boolean iS){
         name = n;
         age = a;
@@ -11,7 +12,11 @@ public class Pet{
     public String getName() {
         return name;
     }
+
     public int getAge(){
         return age;
     }
+
+    public abstract String getBreed();
+
 }

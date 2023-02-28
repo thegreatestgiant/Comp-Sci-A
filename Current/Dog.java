@@ -9,4 +9,8 @@ public class Dog extends Pet{
     public int getAge() {
         return super.getAge() * 7;
     }
+
+    public String getBreed(){
+        return breed;
+    }
 }

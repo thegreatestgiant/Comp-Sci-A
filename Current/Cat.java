@@ -9,4 +9,8 @@ public class Cat extends Pet{
     public int getAge() {
         return super.getAge() * 5;
     }
+
+    public String getBreed(){
+        return breed;
+    }
 }
